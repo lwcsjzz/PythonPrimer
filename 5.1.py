@@ -1,5 +1,5 @@
 import math
 def yuan(r):
     return r*r*math.pi
-a = int(input())
+a = float(input())
 print(yuan(a))
