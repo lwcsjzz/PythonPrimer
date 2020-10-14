@@ -1,0 +1,5 @@
+a, b = input().split(",")
+c, d = a.strip(), b.strip()
+f = int(d)
+n = int(c[0] * f)
+print(n)
