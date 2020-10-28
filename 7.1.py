@@ -10,7 +10,7 @@ def number(s):
                 a = len(c)
         else:
             c = []
-            d = ''.join(b)
+        d = ''.join(b)
     return d
 s = input()
 print(number(s))
